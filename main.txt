@@ -1,2 +1,6 @@
 Welcome frds!!hello this is nandhini
+<<<<<<< HEAD
 helo this is thendral
+=======
+hello from shristy
+>>>>>>> origin/shristy
